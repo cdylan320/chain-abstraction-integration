@@ -8,7 +8,7 @@ Contracts for Chain Abstraction integration
 
 You can `skip` this step if you are using node.js version `>=16.0`
 command to check your node.js version
-
+ 
 ```
 node -v
 ```
